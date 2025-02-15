@@ -9,7 +9,7 @@
 ![wechat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)
 ![rss](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)
 
-Built with `en-c-bot`
+Built with `en-c-bot`.
 
 
 # Overview
