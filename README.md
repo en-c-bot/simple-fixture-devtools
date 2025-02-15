@@ -23,13 +23,22 @@ TEXT 4
 ### Schematic
 TEXT 5
 
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
 
 ### Components
 TEXT 6
 
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
 
 ### Assemble
 TEXT 7
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
 
 
 # Show Support
