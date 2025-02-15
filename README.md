@@ -1,2 +1,2 @@
-# simple-fixture-devtools
-a simple equip for testing reliability.
+# License
+This repository is licensed under the MIT License - see the LICENSE file for details.
